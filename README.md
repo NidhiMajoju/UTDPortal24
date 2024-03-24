@@ -7,6 +7,9 @@ WEHACK project 2024
   
 ## Project Init:
 
+# Figma link:
+https://www.figma.com/file/nKvZlY4kNkQeBGT3DHHlAa/WEHack-2024?type=design&node-id=0%3A1&mode=design&t=bSgKPM0m9mwqGGiB-1
+
 `npx create-next-app@13.4.19`
 * Proceed? yes
 * Default Responses to questions
