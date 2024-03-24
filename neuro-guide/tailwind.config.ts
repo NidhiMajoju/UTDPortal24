@@ -21,7 +21,8 @@ const config: Config = {
         buttonColor: '#eb5e28',
         quizCardColor: '#72BCC2',
         startHere: '#DAD0C3',
-        neutral: '#DACCB1'
+        neutral: '#DACCB1',
+        Bluedark: '#06052C',
       },
       height: {
         'custom': '85rem', // Example custom height

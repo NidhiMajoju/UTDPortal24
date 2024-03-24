@@ -83,7 +83,7 @@ const page = () => {
         </div>
         </div>
         <a href="https://registrar.utdallas.edu/registration/schedule-planner/" className="relative px-12 py-6 mx-96 left-64 -mt-20 bg-black text-white rounded-3xl mb-7">Schedule Planner</a>
-
+<div className="py-12"></div>
         <Link href="/StepTwoCard">
         <div className="icon" style={{ color: 'black', fontSize: '2rem', position: 'absolute', right: '300px', top:'900px', width: '40px',height: '40px' }}> {}
           <IoMdExit />
